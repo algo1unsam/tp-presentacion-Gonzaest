@@ -1,3 +1,3 @@
 Buenas, soy Gonzalo Estevez, tengo 24 años.
 Estoy en la carrera licenciatura en ciencia de datos.
-Es la primera vez que arranco a programar o a hacer algo parecido asique mucha idea no tengo.
+Es la primera vez que arranco a programaro algo asi.
